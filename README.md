@@ -1,5 +1,5 @@
 # PYSTM  
-class PYSTM is the code of PYSTM topic model  
+class PYSTM is the code of PYSTM topic model and main 
 ## Input are 3 texts  
 ### First is the text about short text, one line is a text  
 example：  
